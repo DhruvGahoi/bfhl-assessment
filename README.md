@@ -1,3 +1,11 @@
+This is a POST request so try the URL `https://bfhl-assessment.vercel.app/bfhl` on Postman or Thunderclient.
+- Body Format :
+`
+{
+  "data": ["2","a","y","4","&","-","*","5","92","b"]
+}
+`
+
 # BFHL Assignment
 
 ## What it does
